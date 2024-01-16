@@ -385,7 +385,7 @@ body {
 	overflow-wrap: break-word;
 	position: relative;
 	background-color: #e5e5e5;
-	background-image:url(https://redacted.ch/static/styles/assets/backgrounds/Light-down.svg)
+	background-image:url(https://redacted.ch/static/styles/assets/backgrounds/Dark-down.svg)
 }
 
 @media only screen and (max-width: 789px) {
