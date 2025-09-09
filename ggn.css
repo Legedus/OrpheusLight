@@ -1,0 +1,69 @@
+/*****************************************
+******************NOITA*******************
+*****************************************/
+@font-face {
+    font-family: "noita";
+    src: url("https://files.catbox.moe/ukhbg2.ttf") format("truetype");
+}
+
+body.master_29116 {
+    background-image: url('https://ptpimg.me/ptidiw.png');
+}
+
+.master_29116 #logo {
+    background-image: url('https://ptpimg.me/brh4ow.png');
+    background-size: contain;
+}
+
+.master_29116 #menu {
+    font-family: noita;
+    font-size: 1.9em;
+    font-weight: normal;
+    background: rgba(20, 35, 50, 0.5);
+}
+
+.master_29116 #menu ul {
+    max-width: 925px;
+    margin-top: -3px;
+}
+
+.master_29116 #menu ul a {
+    color: transparent;
+    padding: 5px 18px;
+    text-shadow: none !important;
+    background: linear-gradient(#FFD467 30%,#B94A51 70%);
+    background-clip: text;
+
+}
+
+.master_29116 #menu ul a:hover {
+    color: #fff !important;
+}
+
+.master_29116 .alertbar a {
+    color: #fff;
+    text-shadow: 1px 1px 2px #000
+}
+
+.master_29116 #userinfo {
+    background: rgba(20, 35, 50, 0.5)
+}
+
+.master_29116 #userinfo #userinfo_username .donateico {
+    margin-top: 30px;
+    margin-left: -20px;
+    display: inline-block;
+}
+
+.master_29116 #userinfo #userinfo_username .donateico a {
+    font-family: noita;
+    color: transparent;
+    font-size: 1.9em;
+    text-shadow: none !important;
+    background: linear-gradient(#FFD467 20%,#B94A51 80%);
+    background-clip: text;
+}
+
+.master_29116 #userinfo #userinfo_username .donateico a:hover {
+    color: #fff;
+}
